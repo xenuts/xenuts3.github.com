@@ -1,0 +1,42 @@
+#+STARTUP: hidestars
+#+TIMESTAMP: <2015-06-09 17:30:16 by xenuts>
+
+#+INCLUDE: "sidebar.org"
+
+* Publications
+** 2015
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, and Peng Zhang. Online object tracking based on cnn with metropolis-hasting re-sampling. In /ACM Multimedia (ACMMM)/, Brisbane, Australia, 2015 (submitted). |
+   |   | [pdf] [bib]                                                                                                                                                                             |
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, Qiang Huang, and Stephen J. Cox. Tennis ball tracking using a two-layered data association approach. /IEEE Transactions on Multimedia (TMM)/, 2015.          |
+   |   | [pdf] [bib]                                                                                                                                                                             |
+
+** 2014
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, Peng Zhang, and Yanning Zhang. An ensemble of deep neural networks for object tracking. In /IEEE International Conference on Image Processing (ICIP)/, Paris, France, 2014.                                                                      |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                                 |
+   | ✔ | Chao Yang, Lei Xie and *Xiangzeng Zhou*. Unsupervised Broadcast News Story Segmentation Using Distance Dependent Chinese Restaurant Processes. /The 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP'14)/, May 4-9, 2014, Florence, Italy. |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                                 |
+
+** 2013
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Qiang Huang, Lei Xie, and Stephen J. Cox. A two layered data association approach for ball tracking. In /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Vancouver, Canada, 2013. |
+   |   | [pdf] [bib]                                                                                                                                                                                                                              |
+
+** 2012
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Qiang Huang, Stephen J. Cox, *Xiangzeng Zhou*, and Lei Xie. Detection of ball hits in a tennis game using audio and visual information. In /IEEE Asia-Pacific Signal Information Processing Association Annual Summit and Conference (APSIPA ASC)/, pages 1–10, Hollywood, California, 2012. |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                                                  |
+
+** 2011
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Bingfeng Li, Lei Xie, *Xiangzeng Zhou*, Zhonghua Fu, and Yanning Zhang. Real-time speech-driven virtual avatar. In National Conference on Man-Machine Speech Communication (NCMMSC), Xi’an, China, 2011.                                                              |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                           |
+   | ✔ | Jianwei Niu, Lei Xie, Xiaoming Lu, *Xiangzeng Zhou*, and Yanning Zhang. Multi-confidence feature integration for utterance rejection in robust speech recognition. In /National Conference on Man-Machine Speech Communication (NCMMSC)/, page 4, Xi’an, China, 2011. |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                           |
+
+** 2010
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Lei Xie, Wenhuai Zhao, *Xiangzeng Zhou*, Xiaohai Tian, Bingfeng Li, Naicai Sun, Yali Zhao, and Yanning Zhang. Speech and auditory interfaces for ubiquitous, immersive and personalized applications. In /Immersive and Personalized Applications, Ubiquitous Intelligence Computing and the 7th International Conference on Autonomic Trusted Computing (UIC/ATC)/, Xi’an, China, 2010. |
+   |   | [pdf] [bib]                                                                                                                                                                                                                                                                                                                                                                              |
+

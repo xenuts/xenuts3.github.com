@@ -1,0 +1,51 @@
+#+AUTHOR: Xiangzeng Zhou
+#+STARTUP: hidestars
+#+TIMESTAMP: <2015-06-09 13:26:14 by xenuts>
+
+#+INCLUDE: "sidebar.org"
+
+* About Me
+#+HTML: <div style="font-size:23px; line-height:1.6">
+Xiang-zeng Zhou
+#+HTML: </div>
+
+/Ph.D Candidate/ - [[mailto:xenuts@gmail.com][xenuts@gmail.com]]
+
+School of Computer Science, Northwestern Polytechnical University (NPU)
+
+No. 127, West Youyi Road, Xi'an, Shaanxi Province
+
+P. R. China, 710072
+
+You may find a print-friendly pdf version from [[http://www.baidu.com][here]].
+
+* Interests
+* Education
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| ❒ | Jul. 2010 - Present    | Ph.D. | Computer Science and Technology | Northwestern Polytechnical University (NPU) |
+| ❒ | Sept. 2006 - Jul. 2010 | B.S.  | Computer Science and Technology | Northwestern Polytechnical University (NPU) |
+
+* Skills
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| ✔ C/C++ | ✔ Python | ✔ English | ✔ Matlab | ✔ Emacs | ✔ OpenCV | ✔ Linux/Ubuntu | ✔ LaTeX | ✔ Lisp |
+
+* Honors/Awards
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| • | 2010 | First Prize Scholarship of Northwestern Polytechnical University                      |
+| • | 2009 | National Endeavor Scholarship                                                         |
+| • | 2009 | First Prize of C Programming Contest of Northwestern Polytechnical University         |
+| • | 2009 | First Prize Scholarship of Northwestern Polytechnical University                      |
+| • | 2008 | National Endeavor Scholarship                                                         |
+| • | 2008 | First Prize Scholarship of Northwestern Polytechnical University                      |
+| • | 2007 | Second Prize of ACM Programming Contest of Northwestern Polytechnical University      |
+| • | 2007 | First Prize Scholarship of Northwestern Polytechnical University                      |
+| • | 2007 | Third Prize of Mathematical Modeling Contest of Northwestern Polytechnical University |
+* Activities
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| • | May 30, 2013             | Poster Presentation on ICASSP 2013                              |
+| • | Mar., 2012 - Sept., 2012 | Visiting Researcher at University of East Anglia, Norwich, U.K. |
+| • | Apr., 2011 - Oct., 2011  | Conference Organizing Committee Member for APSIPA ASC 2011      |
+| • | Nov. 23 - 25, 2010       | Oral Presentation on ICALIP 2010                                |
+| • | Oct. 26 - 29, 2010       | Invited Demonstration for UIC/ATC 2010                          |
+
+
